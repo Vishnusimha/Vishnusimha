@@ -5,7 +5,7 @@ Welcome to my GitHub profile! 👋 I am a passionate Software Developer with exp
 Feel free to explore my **repositories** and reach out for **collaboration** or **discussions**. Let's innovate and create together! 🚀
 - 🔭 I’m currently working on **Android** and **backend** projects using **JAVA** and **Kotlin** languages
 - 🌱 I’m currently learning **Cloud technologies**
-- 👯 I’m looking to collaborate on an **Android/Web application development **
+- 👯 I’m looking to collaborate on an **Android/Web application development**
 - 💬 Ask me about **Android/ IoT/ Web application technologies**
 - 📫 How to reach me: email or LinkedIn
 - **Contact me to get access to my private repositories**
