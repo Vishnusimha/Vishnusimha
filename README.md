@@ -46,8 +46,7 @@ Feel free to explore the codebase and provide feedback. Your insights are highly
 Welcome to my showcase Android app, demonstrating my proficiency in Kotlin, XML views, and adherence to industry best practices. This project encompasses the latest features, providing a rich user experience while utilizing traditional XML views, view binding etc.
 
 ### [Java Client Server Application (Public)](https://github.com/Vishnusimha/JavaClientServerApplication)
-- Developed a full-stack web application for online business using Spring Boot and JavaScript.
-- Successfully deployed the application on a Tomcat server for production use.
+- Designed and developed a Java Client/Server Application, exhibiting mastery in both GUI design and Java development. This project showcases adeptness in creating intuitive GUI layouts utilising Java Swing and Canvas, ensuring a seamless user experience. Key accomplishments include implementing concurrent management of multiple robots, precise collision detection, and establishing real-time data transmission between Client and Server for efficient robot control and monitoring.
 
 ### [Full-Stack Web Application for Online Business (Public)](https://github.com/Vishnusimha/cloudnine)
 
