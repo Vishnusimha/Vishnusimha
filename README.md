@@ -81,6 +81,10 @@ Welcome to the repository for my MSc in IoT project - the Intelligent Indoor Air
 - Automated the generation of air quality reports in the Raspberry Pi, providing insights into the frequency of ventilation requirements.
 - Conducted a comparative analysis by incorporating a DHT11 sensor to enhance system performance and accuracy.
 
+
+### Academic Project - Data Analysis and Machine Learning Project
+Developed and fine-tuned a predictive model for human activity recognition using sensor data, involving comprehensive data analysis, meticulous model selection, and precise hyper-parameter tuning. The result was a well-documented and easily reproducible solution. Furthermore, enhanced the existing codebase by introducing a validation set and conducting user-specific training experiments, enabling a thorough assessment of the model's performance, including various metrics, a detailed confusion matrix, and an in-depth analysis of the ROC curve. Moreover acquired a good knowledge of supervised and unsupervised learning.
+
 ## Education
 
 - **MSc in Electronic and Computer Technology (IoT)** - Dublin City University
