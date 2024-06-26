@@ -1,12 +1,12 @@
 # Vishnu Simha Dussa
 
-Welcome to my GitHub profile! 👋 I am a passionate Software Developer with expertise in Android, IoT, and Web Application development. With over 4 years of experience and a strong academic background, I bring a unique blend of practical skills and theoretical knowledge to the world of technology.
+Welcome to my GitHub profile! 👋 I am a passionate Software Developer with expertise in Android, IoT, and Spring Boot Web Application development. With over 4 years of experience and a strong academic background, I bring a unique blend of practical skills and theoretical knowledge to the world of technology.
 
 Feel free to explore my **repositories** and reach out for **collaboration** or **discussions**. Let's innovate and create together! 🚀
-- 🔭 I’m currently working on **Android** and **backend** projects using **JAVA** and **Kotlin** languages
-- 🌱 I’m currently learning **Cloud technologies**
-- 👯 I’m looking to collaborate on an **Android/Web application development**
-- 💬 Ask me about **Android/ IoT/ Web application technologies**
+- 🔭 I’m currently working on **Android** and **Spring boot backend** projects using **JAVA** and **Kotlin** languages
+- 🌱 I’m currently learning and mastering **Cloud technologies -> AWS**
+- 👯 I’m looking to collaborate on an **Android/Spring Boot application development**
+- 💬 Ask me about **Android/ IoT/ Spring Boot application**
 - 📫 How to reach me: email or LinkedIn
 - **Contact me to get access to my private repositories**
 
@@ -14,7 +14,7 @@ Feel free to explore my **repositories** and reach out for **collaboration** or 
 
 - **Languages**: Java, Kotlin, Python, JavaScript, SQL, C++
 - **Android Development**: Native applications, SDK development, MVVM architecture, Jetpack Compose
-- **Web Application Development**: Spring Boot, JavaScript, HTML, CSS
+- **Web Application Development**: Spring Boot, JavaScript, HTML, CSS, Docker, Microservices
 - **IoT Development**: Raspberry Pi, Arduino, sensors, ThingSpeak, MATLAB
 - **Frameworks & Tools**: Retrofit, OkHttp, Room Database, Hilt, Coroutines, Jenkins, Git, Docker, AWS
 - **Agile Methodologies**: SAFe Agile, Scrum, Kanban
