@@ -12,7 +12,7 @@ Feel free to explore my **repositories** and reach out for **collaboration** or 
 
 ## Skills
 
-- **Languages**: Kotlin, Java, Python, JavaScript, SQL, C++
+- **Languages**: Java, Kotlin, Python, JavaScript, SQL, C++
 - **Android Development**: Native applications, SDK development, MVVM architecture, Jetpack Compose
 - **Web Application Development**: Spring Boot, JavaScript, HTML, CSS
 - **IoT Development**: Raspberry Pi, Arduino, sensors, ThingSpeak, MATLAB
