@@ -55,6 +55,10 @@ Feel free to explore the codebase and provide feedback. Your insights are highly
 
 Welcome to my showcase Android app, demonstrating my proficiency in Kotlin, XML views, and adherence to industry best practices. This project encompasses the latest features, providing a rich user experience while utilizing traditional XML views, view binding etc.
 
+### [StocKeeper App (Kotlin & Jetpack Compose Views) (Public)](https://github.com/Vishnusimha/StocKeeper)
+
+- The ultimate stock management tool for homes and businesses. Track, plan, and purchase with ease. You can take care of your inventory with this StocKeeper app. Track stock levels, set alerts, and optimize your purchases. Perfect for homes and businesses.
+
 ### [Java Client Server Application (Public)](https://github.com/Vishnusimha/JavaClientServerApplication)
 - Designed and developed a Java Client/Server Application, exhibiting mastery in both GUI design and Java development. This project showcases adeptness in creating intuitive GUI layouts utilising Java Swing and Canvas, ensuring a seamless user experience. Key accomplishments include implementing concurrent management of multiple robots, precise collision detection, and establishing real-time data transmission between Client and Server for efficient robot control and monitoring.
 
