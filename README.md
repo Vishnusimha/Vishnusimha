@@ -2,7 +2,9 @@
 
 Welcome to my GitHub profile! 👋 
 
-I am a passionate Software Developer with expertise in Android, IoT, and Spring Boot Web Application development. With over 4 years of experience in software engineering and a strong academic background, I bring a unique blend of practical skills and theoretical knowledge to the world of technology.
+I'm a Software Engineer with 3.5 years of experience specializing in Android, IoT, and backend development using Spring Boot. I am passionate about creating high-quality applications and SDKs using MVVM and MVP architecture principles, and I strive to enhance user experiences through cutting-edge technologies.
+
+With a strong background in **Agile environments (Scaled Agile Framework)** and a recent **Master's in Electronic and Computer Engineering**, I bring both practical expertise and theoretical knowledge to solve complex problems. I am skilled in full-stack development, data analytics, machine learning, and end-to-end IoT solutions.
 
 Feel free to explore my **repositories** and reach out for **collaboration** or **discussions**. Let's innovate and create together! 🚀
 - 🔭 I’m currently working on **Android** and **Spring boot backend** projects using **JAVA** and **Kotlin** languages
