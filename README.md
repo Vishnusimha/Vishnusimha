@@ -10,13 +10,23 @@ Feel free to explore my **repositories** and reach out for **collaboration** or 
 - 📫 How to reach me: email or LinkedIn
 - **Contact me to get access to my private repositories**
 
+## Certifications
+
+- **AWS Certified Solutions Architect - Associate**
+- **AWS Certified Cloud Practitioner**
+- **Kubernetes (Udemy)**
+- **Docker for Java Developers**
+- **Spring Boot - TDD, Spring Data & Spring Security**
+- **SQL (HackerRank)**
+
 ## Skills
 
-- **Languages**: Java, Kotlin, Python, JavaScript, SQL, C++
-- **Android Development**: Native applications, SDK development, MVVM architecture, Jetpack Compose
-- **Web Application Development**: Spring Boot, JavaScript, HTML, CSS, Docker, Microservices
-- **IoT Development**: Raspberry Pi, Arduino, sensors, ThingSpeak, MATLAB
-- **Frameworks & Tools**: Retrofit, OkHttp, Room Database, Hilt, Coroutines, Jenkins, Git, Docker, AWS
+- **Languages**: Java, Kotlin, SQL, C++, Python
+- **Android Development**: Native applications, SDK development, MVVM architecture; (Jetpack Compose, Retrofit, OkHttp, Room Database, Hilt, Coroutines etc...)
+- **Web Application Development**: Spring Boot, Microservices, JavaScript, HTML/CSS 
+- **DevOps & Cloud**: Amazon Web Services (AWS), CI/CD, Docker, Kubernetes, Tomcat
+- **IoT Development**: Raspberry Pi, Arduino, sensors, ThingSpeak, MATLAB, MQTT
+- **Frameworks & Process**: Agile (Scrum, SAFe), MVVM, Spring MVC
 - **Agile Methodologies**: SAFe Agile, Scrum, Kanban
 
 ## Projects
