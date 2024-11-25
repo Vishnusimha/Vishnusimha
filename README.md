@@ -1,6 +1,8 @@
 # Vishnu Simha Dussa
 
-Welcome to my GitHub profile! 👋 I am a passionate Software Developer with expertise in Android, IoT, and Spring Boot Web Application development. With over 4 years of experience and a strong academic background, I bring a unique blend of practical skills and theoretical knowledge to the world of technology.
+Welcome to my GitHub profile! 👋 
+
+I am a passionate Software Developer with expertise in Android, IoT, and Spring Boot Web Application development. With over 4 years of experience in software engineering and a strong academic background, I bring a unique blend of practical skills and theoretical knowledge to the world of technology.
 
 Feel free to explore my **repositories** and reach out for **collaboration** or **discussions**. Let's innovate and create together! 🚀
 - 🔭 I’m currently working on **Android** and **Spring boot backend** projects using **JAVA** and **Kotlin** languages
