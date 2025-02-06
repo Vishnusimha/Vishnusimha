@@ -8,7 +8,6 @@ With a strong background in **Agile environments (Scaled Agile Framework)** and 
 
 Feel free to explore my **repositories** and reach out for **collaboration** or **discussions**. Let's innovate and create together! 🚀
 - 🔭 I’m currently working on **Android** and **Spring boot backend** projects using **JAVA** and **Kotlin** languages
-- 🌱 I’m currently learning and mastering **Cloud technologies -> AWS**
 - 👯 I’m looking to collaborate on an **Android/Spring Boot application development**
 - 💬 Ask me about **Android/ IoT/ Spring Boot application**
 - 📫 How to reach me: email or LinkedIn
