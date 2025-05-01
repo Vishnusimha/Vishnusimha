@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 👋 
 
-I'm a Software Engineer with 3.5 years of experience specializing in Android, IoT, and backend development using Spring Boot. I am passionate about creating high-quality applications and SDKs using MVVM and MVP architecture principles, and I strive to enhance user experiences through cutting-edge technologies.
+I'm a Software Engineer with 3.5 years of experience specialising in Android, IoT, and backend development using Spring Boot. I am passionate about creating high-quality applications and SDK's using MVVM and MVP architecture principles, and I strive to enhance user experiences through cutting-edge technologies.
 
 With a strong background in **Agile environments (Scaled Agile Framework)** and a recent **Master's in Electronic and Computer Engineering**, I bring both practical expertise and theoretical knowledge to solve complex problems. I am skilled in full-stack development, data analytics, machine learning, and end-to-end IoT solutions.
 
@@ -10,27 +10,54 @@ Feel free to explore my **repositories** and reach out for **collaboration** or 
 - 🔭 I’m currently working on **Android** and **Spring boot backend** projects using **JAVA** and **Kotlin** languages
 - 👯 I’m looking to collaborate on an **Android/Spring Boot application development**
 - 💬 Ask me about **Android/ IoT/ Spring Boot application**
-- 📫 How to reach me: email or LinkedIn
 - **Contact me to get access to my private repositories**
 
 ## Certifications
 
-- **AWS Certified Solutions Architect - Associate**
-- **AWS Certified Cloud Practitioner**
-- **Kubernetes (Udemy)**
-- **Docker for Java Developers**
-- **Spring Boot - TDD, Spring Data & Spring Security**
-- **SQL (HackerRank)**
+- ![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+- ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+- ![Kubernetes](https://img.shields.io/badge/Kubernetes_%28Udemy%29-%2300578B?style=for-the-badge&logo=kubernetes&logoColor=white) 
+- ![Docker](https://img.shields.io/badge/Docker_for_Java_Developers-%230db7ed?style=for-the-badge&logo=docker&logoColor=white) 
+- ![Spring Boot](https://img.shields.io/badge/Spring_Boot_TDD%2C_Spring_Data%2C_Spring_Security-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
+- ![HackerRank SQL](https://img.shields.io/badge/SQL_HackerRank-%2300C7B7?style=for-the-badge&logo=hackerrank&logoColor=white) 
 
-## Skills
+## 💻 Tech Stack
 
-- **Languages**: Java, Kotlin, SQL, C++, Python
-- **Android Development**: Native applications, SDK development, MVVM architecture; (Jetpack Compose, Retrofit, OkHttp, Room Database, Hilt, Coroutines etc...)
-- **Web Application Development**: Spring Boot, Microservices, JavaScript, HTML/CSS 
-- **DevOps & Cloud**: Amazon Web Services (AWS), CI/CD, Docker, Kubernetes, Tomcat
-- **IoT Development**: Raspberry Pi, Arduino, sensors, ThingSpeak, MATLAB, MQTT
-- **Frameworks & Process**: Agile (Scrum, SAFe), MVVM, Spring MVC
-- **Agile Methodologies**: SAFe Agile, Scrum, Kanban
+### 👨‍💻 Languages
+#### 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&logoWidth=15) &nbsp; ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white&logoWidth=15) &nbsp; ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white&logoWidth=15) &nbsp; ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoWidth=15) &nbsp; ![SQL](https://img.shields.io/badge/SQL-%2300C7B7.svg?style=for-the-badge&logo=sqlite&logoColor=white&logoWidth=15)
+
+### 📱 Android Development
+#### 
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white&logoWidth=15) &nbsp; ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-%23007ACC.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white&logoWidth=15) &nbsp; ![Hilt](https://img.shields.io/badge/Hilt-%23007396.svg?style=for-the-badge&logo=dagger&logoColor=white&logoWidth=15) &nbsp; ![Retrofit](https://img.shields.io/badge/Retrofit-%23FF4081.svg?style=for-the-badge&logo=android&logoColor=white&logoWidth=15) &nbsp; ![Room](https://img.shields.io/badge/Room-%23007396.svg?style=for-the-badge&logo=android&logoColor=white&logoWidth=15) &nbsp; ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black&logoWidth=15)
+
+### 🌐 Web & Backend
+#### 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white&logoWidth=15) &nbsp; ![Microservices](https://img.shields.io/badge/Microservices-%23FF6F00.svg?style=for-the-badge&logo=spring&logoColor=white&logoWidth=15) &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=15) &nbsp; ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&logoWidth=15) &nbsp; ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&logoWidth=15)
+
+### ☁️ Cloud & DevOps
+#### 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white&logoWidth=15) &nbsp; ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&logoWidth=15) &nbsp; ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white&logoWidth=15) &nbsp; ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23A020F0.svg?style=for-the-badge&logo=githubactions&logoColor=white&logoWidth=15) &nbsp; ![Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=black&logoWidth=15)
+
+### 📡 IoT & Embedded
+#### 
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white&logoWidth=15) &nbsp; ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white&logoWidth=15) &nbsp; ![MQTT](https://img.shields.io/badge/MQTT-%23FF9800.svg?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white&logoWidth=15) &nbsp; ![MATLAB](https://img.shields.io/badge/MATLAB-%23E16737.svg?style=for-the-badge&logo=mathworks&logoColor=white&logoWidth=15) &nbsp; ![ThingSpeak](https://img.shields.io/badge/ThingSpeak-%23007ACC.svg?style=for-the-badge&logo=thingsboard&logoColor=white&logoWidth=15)
+
+### ⚙️ Agile & Architecture
+#### 
+![Agile](https://img.shields.io/badge/Agile-%230081C1.svg?style=for-the-badge&logo=agile&logoColor=white&logoWidth=15) &nbsp; ![Scrum](https://img.shields.io/badge/Scrum-%2300A9E0.svg?style=for-the-badge&logo=scrumalliance&logoColor=white&logoWidth=15) &nbsp; ![SAFe](https://img.shields.io/badge/SAFe-%23004C97.svg?style=for-the-badge&logo=safe&logoColor=white&logoWidth=15) &nbsp; ![MVVM](https://img.shields.io/badge/MVVM-%23007396.svg?style=for-the-badge&logo=android&logoColor=white&logoWidth=15)
+
+### 🛠️ Tools & IDEs
+#### 
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white&logoWidth=15) &nbsp; ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&logoWidth=15) &nbsp; ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&logoWidth=15) &nbsp; ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white&logoWidth=15) &nbsp; ![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white&logoWidth=15) &nbsp; ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white&logoWidth=15) &nbsp; ![SonarQube](https://img.shields.io/badge/SonarQube-%2300C7B7.svg?style=for-the-badge&logo=sonarqube&logoColor=white&logoWidth=15)
+
+### 🧪 Testing Frameworks
+#### 
+![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white&logoWidth=15) &nbsp; ![Espresso](https://img.shields.io/badge/Espresso-%23003A57.svg?style=for-the-badge&logo=android&logoColor=white&logoWidth=15)
+
+### 🚀 Deployment & Hosting
+#### 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white&logoWidth=15) &nbsp; ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&logoWidth=15) &nbsp; ![Apache Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=black&logoWidth=15) &nbsp; ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white&logoWidth=15)
 
 ## Projects
 
@@ -104,30 +131,28 @@ Designed and implemented a robust C++ security system with keypad, fingerprint, 
 ### Academic Project - Data Analysis and Machine Learning Project
 Developed and fine-tuned a predictive model for human activity recognition using sensor data, involving comprehensive data analysis, meticulous model selection, and precise hyper-parameter tuning. The result was a well-documented and easily reproducible solution. Furthermore, enhanced the existing codebase by introducing a validation set and conducting user-specific training experiments, enabling a thorough assessment of the model's performance, including various metrics, a detailed confusion matrix, and an in-depth analysis of the ROC curve. Moreover acquired a good knowledge of supervised and unsupervised learning.
 
-## Education
+## 🎓 Education
 
-- **MSc in Electronic and Computer Technology (IoT)** - Dublin City University
-- **BTech in Electronics and Communication Engineering** - SRM University
-  
-## Contact
+- **MSc in Electronic and Computer Technology (IoT)**
+  📍 *Dublin City University*  
 
-- **Email**: vishnusimha98@gmail.com
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/vishnusimhadussa/)
-- **GitHub**: [GitHub Profile](https://github.com/Vishnusimha)
-
+- **BTech in Electronics and Communication Engineering**
+  📍 *SRM University* 
 
   
-<!--
-**Vishnusimha/Vishnusimha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📞 Contact
 
-Here are some ideas to get you started:
+- 📧 **Email**: [vishnusimha98@gmail.com](mailto:vishnusimha98@gmail.com)
+- 💼 **LinkedIn**: [Vishnu Simha Dussa](https://www.linkedin.com/in/vishnusimhadussa/)
+- GitHub: [Vishnusimha](https://github.com/Vishnusimha)
+  
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=Vishnusimha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vishnusimha&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnusimha&theme=dark&hide_border=false&layout=compact)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=Vishnusimha)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=Vishnusimha)
+![](https://github-profile-trophy.vercel.app/?username=Vishnusimha&theme=dark&row=1&column=3)
+
+---
