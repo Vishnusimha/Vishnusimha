@@ -59,18 +59,19 @@ Feel free to explore my **repositories** and reach out for **collaboration** or 
 #### 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white&logoWidth=15) &nbsp; ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&logoWidth=15) &nbsp; ![Apache Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=black&logoWidth=15) &nbsp; ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white&logoWidth=15)
 
-## Projects
+## 🚀 Projects
 
-### [Feature-Rich Android App (Kotlin & Jetpack Compose)(Public)](https://github.com/Vishnusimha/FeaturesCompose)
-
+<details>
+  <summary><strong>📱 Feature-Rich Android App (Kotlin & Jetpack Compose)</strong> </summary>
+</br>
 Welcome to my showcase Android app, a testament to my expertise in Kotlin, Jetpack Compose, and adherence to industry best practices. This project encompasses the latest features and leverages modern technologies to provide a seamless and delightful user experience.
 
 #### Key Features
 
-- **Jetpack Compose UI**: Utilized the power of Jetpack Compose to build a declarative UI with a focus on simplicity and ease of use.
+- **Jetpack Compose UI**: Utilised the power of Jetpack Compose to build a declarative UI with a focus on simplicity and ease of use.
 - **MVVM Architecture**: Followed the Model-View-ViewModel architectural pattern for a clean and maintainable codebase.
 - **Kotlin Coroutines**: Leveraged Kotlin's coroutine support for asynchronous programming, ensuring smooth app performance.
-- **Dependency Injection with Hilt**: Implemented dependency injection using Hilt for efficient and modular code organization.
+- **Dependency Injection with Hilt**: Implemented dependency injection using Hilt for efficient and modular code organisation.
 - **Room Database**: Integrated Room for local data storage, ensuring data persistence and efficient retrieval.
 - **Navigation Component**: Used the Navigation Component to facilitate navigation between different screens in a structured manner.
 - **Network Requests with Retrofit**: Integrated Retrofit for seamless communication with backend services through REST APIs.
@@ -79,41 +80,74 @@ Welcome to my showcase Android app, a testament to my expertise in Kotlin, Jetpa
 
 This Android app project serves as a showcase of my dedication to implementing the latest technologies, adopting best practices, and delivering high-quality, feature-rich applications.
 
-Feel free to explore the codebase and provide feedback. Your insights are highly appreciated!
+🔗 [View Repository](https://github.com/Vishnusimha/FeaturesCompose)
 
-### [Feature-Rich Android App (Kotlin & XML Views) (Public)](https://github.com/Vishnusimha/FeaturesXML)
+---
+</details>
 
-Welcome to my showcase Android app, demonstrating my proficiency in Kotlin, XML views, and adherence to industry best practices. This project encompasses the latest features, providing a rich user experience while utilizing traditional XML views, view binding etc.
+<details>
+  <summary><strong>📱 Feature-Rich Android App (Kotlin & XML Views)</strong></summary>
+</br>
+Welcome to my showcase Android app, demonstrating my proficiency in Kotlin, XML views, and adherence to industry best practices. This project encompasses the latest features, providing a rich user experience while utilising traditional XML views, view binding, etc.
+</br></br>
+  
+🔗 [View Repository](https://github.com/Vishnusimha/FeaturesXML)
 
-### [StocKeeper App (Kotlin & Jetpack Compose Views) (Public)](https://github.com/Vishnusimha/StocKeeper)
+---
+</details>
 
-- The ultimate stock management tool for homes and businesses. Track, plan, and purchase with ease. You can take care of your inventory with this StocKeeper app. Track stock levels, set alerts, and optimize your purchases. Perfect for homes and businesses.
+<details>
+  <summary><strong>📦 StocKeeper App</strong> (Kotlin & Jetpack Compose Views) [Public]</summary>
+</br>
+The ultimate stock management tool for homes and businesses. Track, plan, and purchase with ease. You can take care of your inventory with the StocKeeper app. Track stock levels, set alerts, and optimise your purchases. Perfect for homes and businesses.
+</br></br>
+  
+🔗 [View Repository](https://github.com/Vishnusimha/StocKeeper)
+  
+  ---
+</details>
 
-### [Java Client Server Application (Public)](https://github.com/Vishnusimha/JavaClientServerApplication)
-- Designed and developed a Java Client/Server Application, exhibiting mastery in both GUI design and Java development. This project showcases adeptness in creating intuitive GUI layouts utilising Java Swing and Canvas, ensuring a seamless user experience. Key accomplishments include implementing concurrent management of multiple robots, precise collision detection, and establishing real-time data transmission between Client and Server for efficient robot control and monitoring.
+<details>
+  <summary><strong>💻 Java Client Server Application</strong> [Public]</summary>
+</br>
+Designed and developed a Java Client/Server Application, exhibiting mastery in both GUI design and Java development. This project showcases adeptness in creating intuitive GUI layouts utilising Java Swing and Canvas, ensuring a seamless user experience. Key accomplishments include implementing concurrent management of multiple robots, precise collision detection, and establishing real-time data transmission between Client and Server for efficient robot control and monitoring.
+</br></br>
 
-### [Full-Stack Web Application for Online Business (Public)](https://github.com/Vishnusimha/cloudnine)
+🔗 [View Repository](https://github.com/Vishnusimha/JavaClientServerApplication)
 
-Designed and developed a full-stack web application for online business, showcasing my proficiency in web development, database management, and deployment.
+---
+</details>
 
+<details>
+  <summary><strong>🌐 Full-Stack Web Application for Online Business</strong> [Public]</summary>
+</br>
+Designed and developed a full-stack web application for an online business, showcasing my proficiency in web development, database management, and deployment.</br>
+  
 - **Backend**: Skillfully crafted a robust Spring Boot backend to handle business logic and data processing.
 - **Frontend**: Developed responsive frontend components to create a seamless and user-friendly interface.
-- **Database**: Integrated the application with a MySQL database to efficiently manage and store data.
+- **Database**: Integrated the application with a Mysql database to efficiently manage and store data.
 - **Deployment**: Successfully deployed the application on a Tomcat server for production use.
 
-This project highlights my skills in both backend and frontend development, emphasizing my ability to create cohesive and functional web applications. The utilization of Spring Boot ensures a scalable and well-organized backend, while the MySQL database ensures efficient data management. The deployment on a Tomcat server demonstrates my commitment to delivering real-world, production-ready solutions.
+This project highlights my skills in both backend and frontend development, emphasising my ability to create cohesive and functional web applications. The utilisation of Spring Boot ensures a scalable and well-organised backend, while the Mysql database ensures efficient data management. The deployment on a Tomcat server demonstrates my commitment to delivering real-world, production-ready solutions.
+</br></br>
+🔗 [View Repository](https://github.com/Vishnusimha/cloudnine)
 
-### [Intelligent Indoor Air Quality Monitoring System (Private Repo)](https://github.com/Vishnusimha/AirQualityMonitor)
-Welcome to the repository for my MSc in IoT project - the Intelligent Indoor Air Quality Monitoring System. This project aims to provide a comprehensive solution for monitoring and optimizing air quality within indoor environments.
+---
+</details>
+
+<details>
+  <summary><strong>🌿 Indoor Air Quality Monitoring System</strong> [Private Repo]</summary>
+</br>
+Welcome to the repository for my MSc in IoT project - the Intelligent Indoor Air Quality Monitoring System. This project aims to provide a comprehensive solution for monitoring and optimising air quality within indoor environments.
 
 #### Key Features
 
 ##### 1. Data Collection and Measurement
-- Implemented the project using a Raspberry Pi and Adafruit SCD40 Sensor.
-- Utilized Python and its advanced libraries for efficient data collection, including parameters such as CO2 levels, humidity, and temperature.
+- Implemented the project using a Raspberry Pi and an Adafruit SCD40 Sensor.
+- Utilised Python and its advanced libraries for efficient data collection, including parameters such as CO2 levels, humidity, and temperature.
 
 ##### 2. Automated Vent Control
-- Developed a system to optimize indoor air quality and temperature through automated vent control using a servo motor.
+- Developed a system to optimise indoor air quality and temperature through automated vent control using a servo motor.
 - Implemented logic to regulate airflow based on real-time data, contributing to a healthier indoor environment.
 
 ##### 3. Real-time Data and Alerts
@@ -125,11 +159,31 @@ Welcome to the repository for my MSc in IoT project - the Intelligent Indoor Air
 - Automated the generation of air quality reports in the Raspberry Pi, providing insights into the frequency of ventilation requirements.
 - Conducted a comparative analysis by incorporating a DHT11 sensor to enhance system performance and accuracy.
 
-### [C++ Design Challenge (Public)](https://github.com/Vishnusimha/CppDesignChallange)
-Designed and implemented a robust C++ security system with keypad, fingerprint, and hybrid locks for flexible authentication. Proficiently applied OOP principles like inheritance, polymorphism, and dynamic memory management. Showcased expertise in container classes and algorithms for efficient data manipulation. Overall, demonstrated strong capabilities in software design and implementation.
+🔐 Private Repository
 
-### Academic Project - Data Analysis and Machine Learning Project
-Developed and fine-tuned a predictive model for human activity recognition using sensor data, involving comprehensive data analysis, meticulous model selection, and precise hyper-parameter tuning. The result was a well-documented and easily reproducible solution. Furthermore, enhanced the existing codebase by introducing a validation set and conducting user-specific training experiments, enabling a thorough assessment of the model's performance, including various metrics, a detailed confusion matrix, and an in-depth analysis of the ROC curve. Moreover acquired a good knowledge of supervised and unsupervised learning.
+---
+</details>
+
+<details>
+  <summary><strong>🔐 C++ Design Challenge</strong> [Public]</summary>
+</br>
+Designed and implemented a robust C++ security system with keypad, fingerprint, and hybrid locks for flexible authentication. Proficiently applied OOP principles like inheritance, polymorphism, and dynamic memory management. Showcased expertise in container classes and algorithms for efficient data manipulation. Overall, demonstrated strong capabilities in software design and implementation.
+</br></br>
+  
+🔗 [View Repository](https://github.com/Vishnusimha/CppDesignChallange)
+
+---
+</details>
+
+<details>
+  <summary><strong>📊 Data Analysis & ML - Activity Recognition</strong></summary>
+</br>
+Developed and fine-tuned a predictive model for human activity recognition using sensor data, involving comprehensive data analysis, meticulous model selection, and precise hyperparameter tuning. The result was a well-documented and easily reproducible solution. Furthermore, enhanced the existing codebase by introducing a validation set and conducting user-specific training experiments, enabling a thorough assessment of the model's performance, including various metrics, a detailed confusion matrix, and an in-depth analysis of the ROC curve. Moreover, acquired a good knowledge of supervised and unsupervised learning.
+</br></br>
+📌 Academic Project
+
+  ---
+</details>
 
 ## 🎓 Education
 
