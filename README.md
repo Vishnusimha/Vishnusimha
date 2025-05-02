@@ -218,3 +218,5 @@ Developed and fine-tuned a predictive model for human activity recognition using
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Vishnusimha&icon=4&color=9)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Vishnusimha)
+[![Website johoop.vercel.app](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://johoop.vercel.app)
