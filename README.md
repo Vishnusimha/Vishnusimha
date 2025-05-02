@@ -1,10 +1,16 @@
 # Vishnu Simha
 
-Welcome to my GitHub profile! 👋 
+### 👋 Welcome to my GitHub!
 
-I'm a **Software Engineer** with 3.5 years of experience specialising in **Android, IoT, and backend development** using Spring Boot. I am passionate about creating high-quality applications and SDK's using MVVM and MVP architecture principles, and I strive to enhance user experiences through cutting-edge technologies.
+I'm a **Software Engineer** with **4+ years** of experience in:
 
-With a strong background in **Agile environments (Scaled Agile Framework)** and a recent **Master's in Electronic and Computer Engineering**, I bring both practical expertise and theoretical knowledge to solve complex problems. I am skilled in full-stack development, data analytics, machine learning, and end-to-end IoT solutions.
+- 📱 **Android Development** – MVVM, MVP, Jetpack Compose, SDKs  
+- 🌐 **Backend Development** – Spring Boot, Microservices, REST APIs  
+- 📡 **IoT Systems** – End-to-end solutions with Raspberry Pi, Arduino  
+- 📊 **Data Analytics & Machine Learning** – Python, MQTT, ThingSpeak  
+
+🔁 Experienced in **Agile & Scaled Agile (SAFe)**  
+🎓 Master's in **Electronic and Computer Engineering**
 
 ### 🚀 About Me
 
