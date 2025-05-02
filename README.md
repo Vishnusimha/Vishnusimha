@@ -1,8 +1,8 @@
-# Vishnu Simha Dussa
+# Vishnu Simha
 
 Welcome to my GitHub profile! 👋 
 
-I'm a Software Engineer with 3.5 years of experience specialising in Android, IoT, and backend development using Spring Boot. I am passionate about creating high-quality applications and SDK's using MVVM and MVP architecture principles, and I strive to enhance user experiences through cutting-edge technologies.
+I'm a **Software Engineer** with 3.5 years of experience specialising in **Android, IoT, and backend development** using Spring Boot. I am passionate about creating high-quality applications and SDK's using MVVM and MVP architecture principles, and I strive to enhance user experiences through cutting-edge technologies.
 
 With a strong background in **Agile environments (Scaled Agile Framework)** and a recent **Master's in Electronic and Computer Engineering**, I bring both practical expertise and theoretical knowledge to solve complex problems. I am skilled in full-stack development, data analytics, machine learning, and end-to-end IoT solutions.
 
@@ -201,12 +201,13 @@ Developed and fine-tuned a predictive model for human activity recognition using
 - GitHub: [Vishnusimha](https://github.com/Vishnusimha)
   
 ## 📊 GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=Vishnusimha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vishnusimha&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnusimha&theme=dark&hide_border=false&layout=compact)<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=Vishnusimha)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=Vishnusimha)
-![](https://github-profile-trophy.vercel.app/?username=Vishnusimha&theme=dark&row=1&column=3)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=Vishnusimha)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=Vishnusimha)<br/>
+![](https://github-profile-trophy.vercel.app/?username=Vishnusimha&theme=dark&row=1&column=3)<br/>
 
 ---
+
+[![](https://visitcount.itsvg.in/api?id=Vishnusimha&icon=4&color=9)](https://visitcount.itsvg.in)
