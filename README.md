@@ -2,22 +2,21 @@
 
 ### 👋 Welcome to my GitHub!
 
-I'm a **Software Engineer** with **4+ years** of experience in:
+I'm a **Software Engineer** with **4+ years of experience** in building robust and scalable applications across **Android**, **IoT**, and **Backend** domains. My expertise includes developing mobile apps and SDKs using **MVVM/MVP architectures**, crafting **Spring Boot microservices**, and implementing **end-to-end IoT solutions** using platforms like **Raspberry Pi** and **Arduino**.
 
-- 📱 **Android Development** – MVVM, MVP, Jetpack Compose, SDKs  
-- 🌐 **Backend Development** – Spring Boot, Microservices, REST APIs  
-- 📡 **IoT Systems** – End-to-end solutions with Raspberry Pi, Arduino  
-- 📊 **Data Analytics & Machine Learning** – Python, MQTT, ThingSpeak  
+I'm passionate about delivering high-quality code and seamless user experiences through modern technologies such as **Jetpack Compose**, **Firebase**, **REST APIs**, and **MQTT**. I’m also skilled in **data analytics** and **machine learning**, using Python and cloud-based IoT platforms like **ThingSpeak** to gather insights from real-world data.
 
-🔁 Experienced in **Agile & Scaled Agile (SAFe)**  
-🎓 Master's in **Electronic and Computer Engineering**
+🔁 I thrive in **Agile and SAFe environments**, combining hands-on experience with a strong academic foundation, thanks to my **Master’s degree in Electronic and Computer Engineering**.
+
+---
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **Android** and **Spring Boot** projects using **Kotlin** and **Java**
-- 👯 Looking to collaborate on **Android/Spring Boot application development**
-- 💬 Ask me about **Android**, **IoT**, or **Spring Boot applications**
+- 🔭 Currently working on **Android** and **Spring Boot** projects using **Kotlin** and **Java**  
+- 👯 Looking to collaborate on **Android/Spring Boot application development**  
+- 💬 Ask me about **Android**, **IoT**, or **Spring Boot applications**  
 - 🔐 **Contact me to get access to my private repositories**
+
 
 ## Certifications
 
