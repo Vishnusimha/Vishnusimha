@@ -1,6 +1,5 @@
-# Vishnu Simha
-
-### 👋 Welcome to my GitHub!
+# Vishnu Simha 
+### 👋 Welcome to my GitHub! 
 
 I'm a **Software Engineer** with **4+ years of experience** in building robust and scalable applications across **Android**, **IoT**, and **Backend** domains. My expertise includes developing mobile apps and SDKs using **MVVM/MVP architectures**, crafting **Spring Boot microservices**, and implementing **end-to-end IoT solutions** using platforms like **Raspberry Pi** and **Arduino**.
 
@@ -10,7 +9,7 @@ I'm passionate about delivering high-quality code and seamless user experiences 
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me [🔗 My Portfolio](https://vishnusimha.github.io/resume-viewer/)
 
 - 🔭 Currently working on **Android** and **Spring Boot** projects using **Kotlin** and **Java**  
 - 👯 Looking to collaborate on **Android/Spring Boot application development**  
@@ -177,14 +176,6 @@ Developed and fine-tuned a predictive model for human activity recognition using
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white&logoWidth=15) &nbsp; ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white&logoWidth=15) &nbsp; ![MQTT](https://img.shields.io/badge/MQTT-%23FF9800.svg?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white&logoWidth=15) &nbsp; ![MATLAB](https://img.shields.io/badge/MATLAB-%23E16737.svg?style=for-the-badge&logo=mathworks&logoColor=white&logoWidth=15) &nbsp; ![ThingSpeak](https://img.shields.io/badge/ThingSpeak-%23007ACC.svg?style=for-the-badge&logo=thingsboard&logoColor=white&logoWidth=15)
 
-#### ⚙️ Agile & Architecture
-
-![Agile](https://img.shields.io/badge/Agile-%230081C1.svg?style=for-the-badge&logo=agile&logoColor=white&logoWidth=15) &nbsp; ![Scrum](https://img.shields.io/badge/Scrum-%2300A9E0.svg?style=for-the-badge&logo=scrumalliance&logoColor=white&logoWidth=15) &nbsp; ![SAFe](https://img.shields.io/badge/SAFe-%23004C97.svg?style=for-the-badge&logo=safe&logoColor=white&logoWidth=15) &nbsp; ![MVVM](https://img.shields.io/badge/MVVM-%23007396.svg?style=for-the-badge&logo=android&logoColor=white&logoWidth=15)
-
-#### 🛠️ Tools & IDEs
-
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white&logoWidth=15) &nbsp; ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&logoWidth=15) &nbsp; ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&logoWidth=15) &nbsp; ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white&logoWidth=15) &nbsp; ![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white&logoWidth=15) &nbsp; ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white&logoWidth=15) &nbsp; ![SonarQube](https://img.shields.io/badge/SonarQube-%2300C7B7.svg?style=for-the-badge&logo=sonarqube&logoColor=white&logoWidth=15)
-
 #### 🧪 Testing Frameworks
 
 ![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white&logoWidth=15) &nbsp; ![Espresso](https://img.shields.io/badge/Espresso-%23003A57.svg?style=for-the-badge&logo=android&logoColor=white&logoWidth=15)
@@ -193,6 +184,13 @@ Developed and fine-tuned a predictive model for human activity recognition using
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white&logoWidth=15) &nbsp; ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&logoWidth=15) &nbsp; ![Apache Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=black&logoWidth=15) &nbsp; ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white&logoWidth=15)
 
+#### ⚙️ Agile & Architecture
+
+![Agile](https://img.shields.io/badge/Agile-%230081C1.svg?style=for-the-badge&logo=agile&logoColor=white&logoWidth=15) &nbsp; ![Scrum](https://img.shields.io/badge/Scrum-%2300A9E0.svg?style=for-the-badge&logo=scrumalliance&logoColor=white&logoWidth=15) &nbsp; ![SAFe](https://img.shields.io/badge/SAFe-%23004C97.svg?style=for-the-badge&logo=safe&logoColor=white&logoWidth=15) &nbsp; ![MVVM](https://img.shields.io/badge/MVVM-%23007396.svg?style=for-the-badge&logo=android&logoColor=white&logoWidth=15)
+
+#### 🛠️ Tools & IDEs
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white&logoWidth=15) &nbsp; ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&logoWidth=15) &nbsp; ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&logoWidth=15) &nbsp; ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white&logoWidth=15) &nbsp; ![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white&logoWidth=15) &nbsp; ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white&logoWidth=15) &nbsp; ![SonarQube](https://img.shields.io/badge/SonarQube-%2300C7B7.svg?style=for-the-badge&logo=sonarqube&logoColor=white&logoWidth=15)
 
 ## 🎓 Education
 
