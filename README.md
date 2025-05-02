@@ -6,11 +6,12 @@ I'm a **Software Engineer** with 3.5 years of experience specialising in **Andro
 
 With a strong background in **Agile environments (Scaled Agile Framework)** and a recent **Master's in Electronic and Computer Engineering**, I bring both practical expertise and theoretical knowledge to solve complex problems. I am skilled in full-stack development, data analytics, machine learning, and end-to-end IoT solutions.
 
-Feel free to explore my **repositories** and reach out for **collaboration** or **discussions**. Let's innovate and create together! 🚀
-- 🔭 I’m currently working on **Android** and **Spring boot backend** projects using **JAVA** and **Kotlin** languages
-- 👯 I’m looking to collaborate on an **Android/Spring Boot application development**
-- 💬 Ask me about **Android/ IoT/ Spring Boot application**
-- **Contact me to get access to my private repositories**
+### 🚀 About Me
+
+- 🔭 Currently working on **Android** and **Spring Boot** projects using **Kotlin** and **Java**
+- 👯 Looking to collaborate on **Android/Spring Boot application development**
+- 💬 Ask me about **Android**, **IoT**, or **Spring Boot applications**
+- 🔐 **Contact me to get access to my private repositories**
 
 ## Certifications
 
