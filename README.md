@@ -166,7 +166,8 @@ Developed and fine-tuned a predictive model for human activity recognition using
 
 #### 🌐 Web & Backend
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white&logoWidth=15) &nbsp; ![Microservices](https://img.shields.io/badge/Microservices-%23FF6F00.svg?style=for-the-badge&logo=spring&logoColor=white&logoWidth=15) &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=15) &nbsp; ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&logoWidth=15) &nbsp; ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&logoWidth=15)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white&logoWidth=15) &nbsp; ![Microservices](https://img.shields.io/badge/Microservices-%23FF6F00.svg?style=for-the-badge&logo=spring&logoColor=white&logoWidth=15) &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=15) &nbsp; ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&logoWidth=15) &nbsp; ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&logoWidth=15) &nbsp; ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black&logoWidth=15)
+
 
 #### ☁️ Cloud & DevOps
 
