@@ -265,12 +265,15 @@ Developed and fine-tuned a predictive model for human activity recognition using
 - GitHub: [Vishnusimha](https://github.com/Vishnusimha)
   
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Vishnusimha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vishnusimha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnusimha&theme=dark&hide_border=false&layout=compact)<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=Vishnusimha)<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=Vishnusimha)<br/>
-![](https://github-profile-trophy.vercel.app/?username=Vishnusimha&theme=dark&row=1&column=3)<br/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishnusimha&theme=tokyo-night)
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Vishnusimha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnusimha&theme=dark&hide_border=false&layout=compact)<br/>
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=Vishnusimha)<br/>
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=Vishnusimha)<br/>
+<!--![](https://github-profile-trophy.vercel.app/?username=Vishnusimha&theme=dark&row=1&column=3)<br/>-->
 
 ---
 
