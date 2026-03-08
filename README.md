@@ -25,6 +25,47 @@ I'm passionate about delivering high-quality code and seamless user experiences 
 ## 🚀 Projects
 
 <details>
+  <summary><strong>📦 StocKeeper App</strong> (Kotlin & Jetpack Compose Views) [Private Repo]</summary>
+</br>
+The ultimate stock management tool for homes and businesses. Track, plan, and purchase with ease. You can take care of your inventory with the StocKeeper app. Track stock levels, set alerts, and optimise your purchases. Perfect for homes and businesses.
+</br></br>
+  
+🔗 [Google Play Store](https://play.google.com/store/apps/details?id=com.vishnu.stockeeper)
+🔗 [View Repository](https://github.com/Vishnusimha/StocKeeper)
+
+  ---
+</details>
+
+<details>
+  <summary><strong>🌿 Indoor Air Quality Monitoring System</strong> [Private Repo]</summary>
+</br>
+Welcome to the repository for my MSc in IoT project - the Intelligent Indoor Air Quality Monitoring System. This project aims to provide a comprehensive solution for monitoring and optimising air quality within indoor environments.
+
+#### Key Features
+
+##### 1. Data Collection and Measurement
+- Implemented the project using a Raspberry Pi and an Adafruit SCD40 Sensor.
+- Utilised Python and its advanced libraries for efficient data collection, including parameters such as CO2 levels, humidity, and temperature.
+
+##### 2. Automated Vent Control
+- Developed a system to optimise indoor air quality and temperature through automated vent control using a servo motor.
+- Implemented logic to regulate airflow based on real-time data, contributing to a healthier indoor environment.
+
+##### 3. Real-time Data and Alerts
+- Integrated server functionality into the Raspberry Pi, exposing APIs for data access in JSON and CSV formats.
+- Developed a user-friendly Android mobile application to display real-time and historical data from ThingSpeak Cloud and Raspberry Server.
+- Implemented timely alerts for potential air quality issues, ensuring proactive measures can be taken.
+
+##### 4. Reporting and Analysis
+- Automated the generation of air quality reports in the Raspberry Pi, providing insights into the frequency of ventilation requirements.
+- Conducted a comparative analysis by incorporating a DHT11 sensor to enhance system performance and accuracy.
+
+🔐 Private Repository
+
+---
+</details>
+
+<details>
   <summary><strong>📱 Feature-Rich Android App (Kotlin & Jetpack Compose)</strong> </summary>
 </br>
 Welcome to my showcase Android app, a testament to my expertise in Kotlin, Jetpack Compose, and adherence to industry best practices. This project encompasses the latest features and leverages modern technologies to provide a seamless and delightful user experience.
@@ -59,27 +100,7 @@ Welcome to my showcase Android app, demonstrating my proficiency in Kotlin, XML 
 ---
 </details>
 
-<details>
-  <summary><strong>📦 StocKeeper App</strong> (Kotlin & Jetpack Compose Views) [Public]</summary>
-</br>
-The ultimate stock management tool for homes and businesses. Track, plan, and purchase with ease. You can take care of your inventory with the StocKeeper app. Track stock levels, set alerts, and optimise your purchases. Perfect for homes and businesses.
-</br></br>
-  
-🔗 [View Repository](https://github.com/Vishnusimha/StocKeeper)
-  
-  ---
-</details>
-
-<details>
-  <summary><strong>💻 Java Client Server Application</strong> [Public]</summary>
-</br>
-Designed and developed a Java Client/Server Application, exhibiting mastery in both GUI design and Java development. This project showcases adeptness in creating intuitive GUI layouts utilising Java Swing and Canvas, ensuring a seamless user experience. Key accomplishments include implementing concurrent management of multiple robots, precise collision detection, and establishing real-time data transmission between Client and Server for efficient robot control and monitoring.
-</br></br>
-
-🔗 [View Repository](https://github.com/Vishnusimha/JavaClientServerApplication)
-
 ---
-</details>
 
 <details>
   <summary><strong>🌐 Full-Stack Web Application for Online Business</strong> [Public]</summary>
@@ -99,30 +120,12 @@ This project highlights my skills in both backend and frontend development, emph
 </details>
 
 <details>
-  <summary><strong>🌿 Indoor Air Quality Monitoring System</strong> [Private Repo]</summary>
+  <summary><strong>💻 Java Client Server Application</strong> [Public]</summary>
 </br>
-Welcome to the repository for my MSc in IoT project - the Intelligent Indoor Air Quality Monitoring System. This project aims to provide a comprehensive solution for monitoring and optimising air quality within indoor environments.
+Designed and developed a Java Client/Server Application, exhibiting mastery in both GUI design and Java development. This project showcases adeptness in creating intuitive GUI layouts utilising Java Swing and Canvas, ensuring a seamless user experience. Key accomplishments include implementing concurrent management of multiple robots, precise collision detection, and establishing real-time data transmission between Client and Server for efficient robot control and monitoring.
+</br></br>
 
-#### Key Features
-
-##### 1. Data Collection and Measurement
-- Implemented the project using a Raspberry Pi and an Adafruit SCD40 Sensor.
-- Utilised Python and its advanced libraries for efficient data collection, including parameters such as CO2 levels, humidity, and temperature.
-
-##### 2. Automated Vent Control
-- Developed a system to optimise indoor air quality and temperature through automated vent control using a servo motor.
-- Implemented logic to regulate airflow based on real-time data, contributing to a healthier indoor environment.
-
-##### 3. Real-time Data and Alerts
-- Integrated server functionality into the Raspberry Pi, exposing APIs for data access in JSON and CSV formats.
-- Developed a user-friendly Android mobile application to display real-time and historical data from ThingSpeak Cloud and Raspberry Server.
-- Implemented timely alerts for potential air quality issues, ensuring proactive measures can be taken.
-
-##### 4. Reporting and Analysis
-- Automated the generation of air quality reports in the Raspberry Pi, providing insights into the frequency of ventilation requirements.
-- Conducted a comparative analysis by incorporating a DHT11 sensor to enhance system performance and accuracy.
-
-🔐 Private Repository
+🔗 [View Repository](https://github.com/Vishnusimha/JavaClientServerApplication)
 
 ---
 </details>
