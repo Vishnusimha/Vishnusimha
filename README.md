@@ -16,15 +16,11 @@ I'm passionate about delivering high-quality code and seamless user experiences 
 - 💬 Ask me about **Android**, **IoT**, or **Spring Boot applications**  
 - 🔐 **Contact me to get access to my private repositories**
 
-
 ## Certifications
 
-- ![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-- ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-- ![Kubernetes](https://img.shields.io/badge/Kubernetes_%28Udemy%29-%2300578B?style=for-the-badge&logo=kubernetes&logoColor=white) 
-- ![Docker](https://img.shields.io/badge/Docker_for_Java_Developers-%230db7ed?style=for-the-badge&logo=docker&logoColor=white) 
-- ![Spring Boot](https://img.shields.io/badge/Spring_Boot_TDD%2C_Spring_Data%2C_Spring_Security-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
-- ![HackerRank SQL](https://img.shields.io/badge/SQL_HackerRank-%2300C7B7?style=for-the-badge&logo=hackerrank&logoColor=white) 
+- ![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-FF9900?style=flat&logo=amazonaws&logoColor=white)
+- ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker_for_Java_Developers-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes_(Udemy)-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot_TDD_Spring_Data_Spring_Security-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![HackerRank SQL](https://img.shields.io/badge/SQL_HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)
 
 ## 🚀 Projects
 
@@ -158,40 +154,100 @@ Developed and fine-tuned a predictive model for human activity recognition using
 
 #### 👨‍💻 Languages
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&logoWidth=15) &nbsp; ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white&logoWidth=15) &nbsp; ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white&logoWidth=15) &nbsp; ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoWidth=15) &nbsp; ![SQL](https://img.shields.io/badge/SQL-%2300C7B7.svg?style=for-the-badge&logo=sqlite&logoColor=white&logoWidth=15)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) <sup>_⭐ Core (Most Used)_</sup>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) <sup>_🔧Working Knowledge_</sup>
 
 #### 📱 Android Development
 
-![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white&logoWidth=15) &nbsp; ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-%23007ACC.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white&logoWidth=15) &nbsp; ![Hilt](https://img.shields.io/badge/Hilt-%23007396.svg?style=for-the-badge&logo=dagger&logoColor=white&logoWidth=15) &nbsp; ![Retrofit](https://img.shields.io/badge/Retrofit-%23FF4081.svg?style=for-the-badge&logo=android&logoColor=white&logoWidth=15) &nbsp; ![Room](https://img.shields.io/badge/Room-%23007396.svg?style=for-the-badge&logo=android&logoColor=white&logoWidth=15) &nbsp; ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black&logoWidth=15)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![XML](https://img.shields.io/badge/XML-005FAD?style=flat&logo=xml&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-3DDC84?style=flat&logo=android&logoColor=white)
+![Kotlin Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Flow](https://img.shields.io/badge/Kotlin_Flow-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-FF4081?style=flat&logo=android&logoColor=white)
+![Room](https://img.shields.io/badge/Room-007396?style=flat&logo=android&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-007396?style=flat&logo=dagger&logoColor=white)
+![LiveData](https://img.shields.io/badge/LiveData-3DDC84?style=flat&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Crashlytics](https://img.shields.io/badge/Crashlytics-FFCA28?style=flat&logo=firebase&logoColor=black)
+![ADB](https://img.shields.io/badge/ADB-3DDC84?style=flat&logo=android&logoColor=white)
+![REST_API](https://img.shields.io/badge/REST_API-005571?style=flat)
+![BLE](https://img.shields.io/badge/Bluetooth_LE-0082FC?style=flat&logo=bluetooth&logoColor=white)
 
 #### 🌐 Web & Backend
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white&logoWidth=15) &nbsp; ![Microservices](https://img.shields.io/badge/Microservices-%23FF6F00.svg?style=for-the-badge&logo=spring&logoColor=white&logoWidth=15) &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=15) &nbsp; ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&logoWidth=15) &nbsp; ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&logoWidth=15) &nbsp; ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black&logoWidth=15)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 #### ☁️ Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white&logoWidth=15) &nbsp; ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&logoWidth=15) &nbsp; ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white&logoWidth=15) &nbsp; ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23A020F0.svg?style=for-the-badge&logo=githubactions&logoColor=white&logoWidth=15) &nbsp; ![Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=black&logoWidth=15)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apache-tomcat&logoColor=black)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
 
 #### 📡 IoT & Embedded
 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white&logoWidth=15) &nbsp; ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white&logoWidth=15) &nbsp; ![MQTT](https://img.shields.io/badge/MQTT-%23FF9800.svg?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white&logoWidth=15) &nbsp; ![MATLAB](https://img.shields.io/badge/MATLAB-%23E16737.svg?style=for-the-badge&logo=mathworks&logoColor=white&logoWidth=15) &nbsp; ![ThingSpeak](https://img.shields.io/badge/ThingSpeak-%23007ACC.svg?style=for-the-badge&logo=thingsboard&logoColor=white&logoWidth=15)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-FF9800?style=flat&logo=eclipse-mosquitto&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat&logo=mathworks&logoColor=white)
+![ThingSpeak](https://img.shields.io/badge/ThingSpeak-007ACC?style=flat&logo=thingsboard&logoColor=white)
 
-#### 🧪 Testing Frameworks
+#### 🧪 Testing Frameworks 
 
-![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white&logoWidth=15) &nbsp; ![Espresso](https://img.shields.io/badge/Espresso-%23003A57.svg?style=for-the-badge&logo=android&logoColor=white&logoWidth=15)
-
-#### 🚀 Deployment & Hosting
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white&logoWidth=15) &nbsp; ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&logoWidth=15) &nbsp; ![Apache Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=black&logoWidth=15) &nbsp; ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white&logoWidth=15)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat)
+![Robolectric](https://img.shields.io/badge/Robolectric-3DDC84?style=flat&logo=android&logoColor=white)
+![Espresso](https://img.shields.io/badge/Espresso-003A57?style=flat&logo=android&logoColor=white)
 
 #### ⚙️ Agile & Architecture
 
-![Agile](https://img.shields.io/badge/Agile-%230081C1.svg?style=for-the-badge&logo=agile&logoColor=white&logoWidth=15) &nbsp; ![Scrum](https://img.shields.io/badge/Scrum-%2300A9E0.svg?style=for-the-badge&logo=scrumalliance&logoColor=white&logoWidth=15) &nbsp; ![SAFe](https://img.shields.io/badge/SAFe-%23004C97.svg?style=for-the-badge&logo=safe&logoColor=white&logoWidth=15) &nbsp; ![MVVM](https://img.shields.io/badge/MVVM-%23007396.svg?style=for-the-badge&logo=android&logoColor=white&logoWidth=15)
+![Agile](https://img.shields.io/badge/Agile-0081C1?style=flat&logo=scrumalliance&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-00A9E0?style=flat&logo=scrumalliance&logoColor=white)
+![SAFe](https://img.shields.io/badge/SAFe-004C97?style=flat)
 
 #### 🛠️ Tools & IDEs
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white&logoWidth=15) &nbsp; ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&logoWidth=15) &nbsp; ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&logoWidth=15) &nbsp; ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white&logoWidth=15) &nbsp; ![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white&logoWidth=15) &nbsp; ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white&logoWidth=15) &nbsp; ![SonarQube](https://img.shields.io/badge/SonarQube-%2300C7B7.svg?style=for-the-badge&logo=sonarqube&logoColor=white&logoWidth=15)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0047B3?style=flat&logo=bitbucket&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=flat&logo=mixpanel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Zeplin](https://img.shields.io/badge/Zeplin-FDBD39?style=flat&logo=zeplin&logoColor=black)
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FFD02F?style=flat&logo=miro&logoColor=black)
+
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
+
+---
 
 ## 🎓 Education
 
@@ -220,4 +276,6 @@ Developed and fine-tuned a predictive model for human activity recognition using
 
 [![](https://visitcount.itsvg.in/api?id=Vishnusimha&icon=4&color=9)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=Vishnusimha)
-[![Website johoop.vercel.app](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://johoop.vercel.app)
+[![Website johoop.vercel.app](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)]([https://johoop.vercel.app](https://vishnuportfolio-five.vercel.app/vishnuportfolio/home))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnusimhadussa)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/vishnusimha98/)
