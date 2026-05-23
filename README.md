@@ -9,7 +9,7 @@ I'm passionate about delivering high-quality code and seamless user experiences 
 
 ---
 
-### 🚀 About Me [🔗 My Portfolio](https://vishnuportfolio-five.vercel.app/vishnuportfolio/home)
+### 🚀 About Me [🔗 My Portfolio](https://vishnu.simhatech.xyz/)
 
 - 🔭 Currently working on **Android** and **Spring Boot** projects using **Kotlin** and **Java**  
 - 👯 Looking to collaborate on **Android/Spring Boot application development**  
