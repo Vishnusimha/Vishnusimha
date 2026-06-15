@@ -1,5 +1,5 @@
 # [Vishnu Simha](https://vishnu.simhatech.xyz/)
-### 👋 Welcome to my GitHub! 
+### 👋 Welcome! 
 
 I'm a **Software Engineer** with **4+ years of experience** in building robust and scalable applications across **Android**, **IoT**, and **Backend** domains. My expertise includes developing mobile apps and SDKs using **MVVM/MVP architectures**, crafting **Spring Boot microservices**, and implementing **end-to-end IoT solutions** using platforms like **Raspberry Pi** and **Arduino**.
 
